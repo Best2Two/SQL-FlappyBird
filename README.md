@@ -1,6 +1,6 @@
 # Flappy Bird SQL Game
 
-A Flappy Bird game implemented entirely in SQL Server, running at 30 or 60 frames per second.
+A Flappy Bird game implemented entirely in SQL Server.
 
 ## How It Works
 
