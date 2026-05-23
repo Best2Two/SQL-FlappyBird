@@ -44,7 +44,7 @@ Set up your own `connectivity.py` configuration.
 Press spacebar to make the bird jump.
 
 ___ 
-Everything you see here is literally a table and some queries on it. SQL is fun, **but I really like data because she likes data.**
+Everything you see here is literally a table and some queries on it. SQL is fun.
 
 <p align="center">
   <img src="view.gif" alt="Gameplay">
